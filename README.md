@@ -7,7 +7,6 @@ LLM 기반 AI 서비스와 컴퓨터 비전에 관심이 많고, Python·FastAPI
 ## 🔍 Interests
 - **LLM 서비스** — 프롬프트 설계, 페르소나 생성, AI API 개발
 - **Computer Vision** — 이미지 분류·객체 인식, 자율주행 장애물 인식
-- **AI 모델 평가** — 성능 분석과 산업 현장 적용 가능성 검토
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
